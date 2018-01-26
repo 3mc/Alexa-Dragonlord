@@ -1,0 +1,22 @@
+{
+  "intents": [
+    {
+      "slots": [
+        {
+          "name": "firstName",
+          "type": "AMAZON.FirstName"
+        }
+      ],
+      "intent": "birthdayIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}
